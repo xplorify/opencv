@@ -1,2 +1,2 @@
-`docker run -it xplorify/opencv python
->>> import cv2`
+`docker run -it xplorify/opencv python`
+`>>> import cv2`
